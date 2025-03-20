@@ -18,11 +18,11 @@ The solutions are implemented in **C programming language** and cover fundamenta
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/C-Programming-Solutions.git
+   git clone https://github.com/yourusername/C-Programming.git
    ```
 2. Navigate to the directory:
    ```sh
-   cd C-Programming-Solutions
+   cd C-Programming
    ```
 3. Compile and run a specific solution:
    ```sh
