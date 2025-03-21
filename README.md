@@ -18,7 +18,7 @@ The solutions are implemented in **C programming language** and cover fundamenta
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/C-Programming.git
+   git clone https://github.com/farhadTech/C-Programming.git
    ```
 2. Navigate to the directory:
    ```sh
